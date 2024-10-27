@@ -1,5 +1,5 @@
 
-# Comprehensive IT Project Management and Tracking Dashboard
+# Management and Tracking Dashboard
 
 ## Overview
 This project simulates a project management dashboard for an IT Project Manager. The dashboard includes tools for planning, tracking, risk management, and reporting.
